@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Composer Portfolio",
+  "description": "A high-converting, premium music composition portfolio website designed for film and game composers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
